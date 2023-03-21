@@ -61,6 +61,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Built With
+
+* [![HTML][HTML]][HTML-url]
+ [![Css][Css.com]][Css-url]
+ [![JS][Js]][Js-url]
+
 <p> Simple vanilla js Tic Tac Toe game to play with friends</p>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -70,11 +76,6 @@
 
 
 
-### Built With
-
-* [![HTML][HTML]][HTML-url]
-* [![Css][Css.com]][Css-url]
-* [![JS][Js]][Js-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
