@@ -19,7 +19,7 @@
 
 <h3 align="center">Tic Tac Toe Game</h3>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/Tic-Tac-Toe)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MatPizzolo/Tic-Tac-Toe)
 
   <p align="center">
     See my projects
