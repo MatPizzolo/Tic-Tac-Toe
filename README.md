@@ -1,12 +1,13 @@
 <!-- Compatibilidad mejorada del enlace "volver al inicio": Ver: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
+
 <!-- LOGOTIPO DEL PROYECTO -->
 <br />
 <div align="center">
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MatPizzolo/Tic-Tac-Toe/blob/main/README.md) 
 
 <h3 align="center">Juego Tic Tac Toe</h3>
-
   <p align="center">
     Mira mis proyectos
     <br />
