@@ -5,9 +5,12 @@
 <!-- LOGOTIPO DEL PROYECTO -->
 <br />
 <div align="center">
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MatPizzolo/Tic-Tac-Toe/blob/main/README.md) 
+
 
 <h3 align="center">Juego Tic Tac Toe</h3>
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/Tic-Tac-Toe/blob/main/README.en.md)
+  
   <p align="center">
     Mira mis proyectos
     <br />
