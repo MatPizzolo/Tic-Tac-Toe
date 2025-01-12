@@ -19,7 +19,11 @@
 
 <h3 align="center">Tic Tac Toe Game</h3>
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/Tic-Tac-Toe)
+
   <p align="center">
+    See my projects
+    <br />
     <br />
     <br />
     <a href="https://mp-tictactoe.netlify.app/" target="_blank">View Web App</a>
@@ -95,4 +99,3 @@ Project Link: [https://github.com/MatPizzolo/Tic-Tac-Toe](https://github.com/Mat
 [HTML-url]: https://reactjs.org/
 [JS]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://reactjs.org/
-
